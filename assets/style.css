@@ -71,3 +71,7 @@ nav {
     color: #ff6600;
     text-decoration: underline;
 }
+
+section {
+    padding: 40px 20px;
+}
